@@ -1,0 +1,49 @@
+body{
+    overflow-x:hidden;
+}
+
+.navbar-dark{
+    background-color: #512DA8;
+}
+
+.nav-item{
+    font-size:20px;
+    margin:20px;
+}
+
+li:hover{
+    background-color: rgb(185, 180, 180);
+}
+
+.guitar-image{
+    position: relative;
+    width:100%;
+}
+
+.guitar-item{
+    position:absolute;
+    top:20%;
+    left:10%;
+    right:10%;
+}
+
+.redeem{
+    color:rgb(85, 85, 236);
+}
+
+.product{
+    font-size:20px;
+}
+
+.entertainment{
+    position:relative;
+    width: 100%;
+}
+
+.entertainment-text{
+    position:absolute;
+    top:10%;
+    left:10%;
+    right:10%;
+    font-size: 17px;
+}
