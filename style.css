@@ -1,5 +1,6 @@
 body{
     overflow-x:hidden;
+
 }
 
 .navbar-dark{
@@ -22,9 +23,10 @@ li:hover{
 
 .guitar-item{
     position:absolute;
-    top:20%;
-    left:10%;
-    right:10%;
+    top:40%;
+    left:0;
+    right:0;
+    bottom:0;
 }
 
 .redeem{
@@ -42,8 +44,9 @@ li:hover{
 
 .entertainment-text{
     position:absolute;
-    top:10%;
-    left:10%;
-    right:10%;
+    top:30%;
+    left:0;
+    right:0;
+    bottom:0;
     font-size: 17px;
 }
